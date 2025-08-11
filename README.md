@@ -1,29 +1,33 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Ana Sofia Guzman Rodriguez
+**Profesión:** _Analisis y Desarrolladora de Software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** +57 321 916 1700
+- **Email:** [anasofiaguzmanrodriguez831@gmail.com](mailto:anasofiaguzmanrodriguez831@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Sena** _(2025 - Actualidad)_
+- HTML
+- CSS
+- Js
+- Python
+- Backend.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Institucion Educativa Tecnica Comercial San Juan Bosco** _(2024)_
+- Bachiller
+- Técnico en contabilizacion de operaciones comerciales y financieras
+- Aprendiz de Analisis y desarrollo de software.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Responsabilidad**
+- **comunicación no verval**
+- **Trabajo en equipo**
 
 ---
 
