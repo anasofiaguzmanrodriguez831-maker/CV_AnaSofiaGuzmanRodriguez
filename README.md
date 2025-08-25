@@ -4,8 +4,6 @@
 ## Ana Sofia Guzman Rodriguez
 **Profesión:** _Analisis y Desarrolladora de Software_
 
-## 📞 Contacto
-- **Teléfono:** +57 321 916 1700
 - **Email:** [anasofiaguzmanrodriguez831@gmail.com](mailto:anasofiaguzmanrodriguez831@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
@@ -19,6 +17,7 @@
 
 
 ## 🎓 Educación
+###**SENA** _(2025- Actualidad)_
 ### **Institucion Educativa Tecnica Comercial San Juan Bosco** _(2024)_
 - Bachiller
 - Técnico en contabilizacion de operaciones comerciales y financieras
